@@ -1,0 +1,48 @@
+
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+:root {
+    grey-color: #EEEFF1;
+    blue-color: #34547A;
+}
+.container {
+    width: 100%;
+    max-width: 1370px;
+    margin: 0 auto;
+}
+
+/* header */
+
+.header {
+    
+}
+.container.header {
+}
+.navbar_items-block {
+}
+.WD-text {
+}
+.navbar-list {
+}
+.navbar-item {
+}
+.screen_items-block {
+}
+.screen-header {
+}
+.text-header-screen {
+}
+.p-header-screen {
+}
+.screen_button_header {
+}
+.navbar_button {
+}
