@@ -27,12 +27,28 @@ body {
 .container.header {
 }
 .navbar_items-block {
+    display: flex;
+    justify-content: center;
+    align-items:center;
 }
 .WD-text {
+    font-family: "Revalia", sans-serif;
+    font-size: 48px;
+    margin-right: 398px;
+    color: #34547A;
 }
 .navbar-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 42px;
 }
 .navbar-item {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style: none;
 }
 .screen_items-block {
 }
