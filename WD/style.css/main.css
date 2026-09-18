@@ -22,9 +22,10 @@ body {
 /* header */
 
 .header {
-    
+    background-color: #EEEFF1;
 }
 .container.header {
+    
 }
 .navbar_items-block {
     display: flex;
@@ -98,3 +99,39 @@ a:hover {
 .navbar_button :active {
     background-color: #004085;
 }
+
+/* about me */
+.about {
+    margin-top: 112px;
+    background-color: #fff;
+}
+.about-container {
+    
+}
+.about-items {
+    width: 540px;
+    height: 147px;
+    text-align: center;
+    margin: 0 auto;
+}
+.about-text {
+    font-size: 32px;
+    font-weight: 500;
+}
+.about-p {
+    font-size: 16px;
+    line-height: 161%;
+}
+/* numbers */
+.numbers {
+    background-color: #34547A;
+}
+.number-items {
+    display: flex;
+    width: 149px;
+    height: 59px;
+    display: flex;
+}
+
+
+
