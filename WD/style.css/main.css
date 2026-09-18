@@ -51,6 +51,7 @@ body {
     list-style: none;
 }
 a {
+    padding: 4px 6px;
     text-decoration: none;
 }
 a:hover {
