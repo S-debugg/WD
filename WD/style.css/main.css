@@ -122,16 +122,33 @@ a:hover {
     font-size: 16px;
     line-height: 161%;
 }
-/* numbers */
-.numbers {
-    background-color: #34547A;
+/* groups */
+.group {
+    width: 100%;
+    background-color: #004085;
+    height: 250px;
 }
-.number-items {
+.group-items {
     display: flex;
-    width: 149px;
+    margin-right: 25px;
+}
+.group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 141px;
     height: 59px;
-    display: flex;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 10px;
 }
+.text-group {
+    font-size: 23px;
+}
+.p-group {
+    font-size: 16px;
+}
+
 
 
 
