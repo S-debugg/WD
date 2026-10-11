@@ -149,6 +149,41 @@ a:hover {
     font-size: 16px;
 }
 
+/* skills */
+
+.skills {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 120px;
+}
+.my-skills {
+    width: 445px;
+    height: 257px;
+    text-align: start;
+    border: #10B981 1px solid;
+}
+.html-skills {
+}
+.p-skills_html {
+}
+.html-line {
+}
+.css-skills {
+}
+.p-skills_css {
+}
+.css-line {
+}
+.js-skills {
+}
+.p-skills_js {
+}
+.photo-skills {
+    width: 550px;
+    height: 450px;
+}
+
 
 
 
